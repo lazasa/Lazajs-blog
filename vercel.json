@@ -1,0 +1,26 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://linkedin.com/in/lazasa",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "linkedin.lazajs.site"
+        }
+      ]
+    },
+    {
+      "source": "/",
+      "destination": "https://github.com/lazasa",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "github.lazajs.site"
+        }
+      ]
+    }
+  ]
+}
