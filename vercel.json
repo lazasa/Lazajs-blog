@@ -21,6 +21,17 @@
           "value": "github.lazajs.site"
         }
       ]
+    },
+    {
+      "source": "/:path*",
+      "destination": "https://x.com/lazassa",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "x.lazajs.site"
+        }
+      ]
     }
   ]
 }
